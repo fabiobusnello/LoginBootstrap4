@@ -1,0 +1,20 @@
+#divlogin{
+    background-color: rgb(255, 255, 255);
+    box-shadow:1px 1px 3px #000;
+    border-radius:10px;  
+  }
+#alert-login{
+  color:red;
+  display:none;
+}
+
+#login-div-img{
+  margin: 5px;
+  margin-top: -10px;
+}
+
+#login-div-img img{
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+}
